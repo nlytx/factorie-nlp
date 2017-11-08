@@ -3,7 +3,7 @@
 val scalaLangVersion = "2.12.3"
 val organisationName = "io.nlytx"
 
-val factorieName = "factore-nlp"
+val factorieName = "factorie-nlp"
 val factorieVersion = "1.0.4"
 val publish_factorie_to_BinTray = true
 
@@ -39,6 +39,7 @@ lazy val factorie_nlp = (project in file(".")).
     version := factorieVersion,
     commonSettings,
     libraryDependencies ++= factorieDeps ++ loggingDeps ++ testDeps,
+    resolvers += Resolver.bintrayRepo("nlytx","nlytx-nlp"),
     publishFactorie
   )
 
