@@ -39,6 +39,7 @@ lazy val factorie_nlp = (project in file(".")).
     version := factorieVersion,
     commonSettings,
     libraryDependencies ++= factorieDeps ++ loggingDeps ++ testDeps,
+    resolvers += Resolver.bintrayRepo("nlytx","nlytx-nlp"),
     publishFactorie
   )
 
