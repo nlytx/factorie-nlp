@@ -3,7 +3,7 @@
 val scalaLangVersion = "2.12.3"
 val organisationName = "io.nlytx"
 
-val factorieName = "factore-nlp"
+val factorieName = "factorie-nlp"
 val factorieVersion = "1.0.4"
 val publish_factorie_to_BinTray = true
 

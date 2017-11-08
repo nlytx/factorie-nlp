@@ -2,8 +2,8 @@
 
 [ ![Download](https://api.bintray.com/packages/nlytx/nlytx-nlp/factorie-nlp-models/images/download.svg) ](https://bintray.com/nlytx/nlytx-nlp/factorie-nlp-models/_latestVersion) *factorie-nlp-models*
 
-<!-- [ ![Download](https://api.bintray.com/packages/nlytx/nlytx-nlp/nlytx-nlp-api/images/download.svg) ](https://bintray.com/nlytx/nlytx-nlp/nlytx-nlp-api/_latestVersion) *nlytx-nlp-api*
-# factorie-nlp -->
+[ ![Download](https://api.bintray.com/packages/nlytx/nlytx-nlp/factorie-nlp/images/download.svg) ](https://bintray.com/nlytx/nlytx-nlp/factorie-nlp/_latestVersion) *factorie-nlp*
+
 
 This is a significantly modified version of [Factorie](https://github.com/factorie/factorie) providing only NLP services. For more detail on the differences [see below](#diffs)
 
