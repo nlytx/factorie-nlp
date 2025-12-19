@@ -1,9 +1,6 @@
-[![Build Status](https://travis-ci.org/nlytx/factorie-nlp.svg?branch=master)](https://travis-ci.org/nlytx/factorie-nlp) ![scalaVersion](https://img.shields.io/badge/scala-2.12.3-red.svg) ![Liencse](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)
+> This project is no longer active
 
-[ ![Download](https://api.bintray.com/packages/nlytx/nlytx-nlp/factorie-nlp-models/images/download.svg) ](https://bintray.com/nlytx/nlytx-nlp/factorie-nlp-models/_latestVersion) *factorie-nlp-models*
-
-[ ![Download](https://api.bintray.com/packages/nlytx/nlytx-nlp/factorie-nlp/images/download.svg) ](https://bintray.com/nlytx/nlytx-nlp/factorie-nlp/_latestVersion) *factorie-nlp*
-
+![scalaVersion](https://img.shields.io/badge/scala-2.12.3-red.svg) ![Liencse](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)
 
 This is a significantly modified version of [Factorie](https://github.com/factorie/factorie) providing only NLP services. For more detail on the differences [see below](#diffs)
 
